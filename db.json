@@ -29,12 +29,6 @@
       "day": "Monday",
       "reminder": true,
       "id": 5
-    },
-    {
-      "text": "Add Task",
-      "day": "now",
-      "reminder": false,
-      "id": 6
     }
   ]
 }
